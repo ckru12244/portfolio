@@ -60,7 +60,8 @@ const data={
 				desc: [
 					"- React를 활용한 사용자 인터페이스 구현",
 					"- 유지보수가 용이한 Folder Structure 구성",
-					"- Redux를 활용한 React State의 활용"
+					"- Redux를 활용한 React State의 활용",
+					"- Axois Library를 활용하여 React AJAX 구현"
 				]
 			},
 			{
@@ -80,7 +81,7 @@ const data={
 					{img: "program_icons/step7 pwa/pwa.svg", alt: "pwa"}
 				],
 				desc: [
-					"- 프로그레시브 웹 앱(progressive web app) 구현",
+					"- 네이티브 앱과 유사한 사용자 경험을 제공하는 PWA를 제작",
 					"- HTML, CSS, JavaScript와 같은 웹 기술로 만드는 앱 구현"
 				]
 			},
@@ -117,11 +118,11 @@ const data={
 			{
 				num: "00",
 				title: "Portfolio",
-				skill: "React, Redux, SwiperJS",
+				skill: "React, Redux, GSAP, SwiperJS",
 				p: "React를 사용하여 제작하였고 반응형 구현한 포트폴리오 사이트 입니다. Redux를 활용하여 상태를 효율적으로 관리할수 있도록 제작하였습니다.",
 				link: {
 					gitHref: "github.com/ckru12244/portfolio",
-					webHref: "wylie-ja2p7tzh9-ckru12244s-projects.vercel.app"
+					webHref: "portfolio-2cxgxhnk8-ckru12244s-projects.vercel.app"
 				}
 			},
 			{
