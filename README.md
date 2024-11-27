@@ -102,5 +102,5 @@
 ## 📫 연락처  
 
 - **GitHub:** [https://github.com/ckru12244](https://github.com/ckru12244)  
-- **Notion:** [https://mellow-atom-120.notion.site/Front-end-Portfolio-11f50b55556880b0b723eb218a4effbb](https://mellow-atom-120.notion.site/Front-end-Portfolio-11f50b55556880b0b723eb218a4effbb)  
+- **Notion:** [https://difficult-notebook-be6.notion.site/Frontend-Portfolio-1194acc700af80e29dd4e381373b8c77?pvs=4](https://difficult-notebook-be6.notion.site/Frontend-Portfolio-1194acc700af80e29dd4e381373b8c77?pvs=4)  
 - **Email:** [ckru1224@naver.com](mailto:ckru1224@naver.com) 
