@@ -122,7 +122,7 @@ const data={
 				p: "React를 사용하여 제작하였고 반응형 구현한 포트폴리오 사이트 입니다. Redux를 활용하여 상태를 효율적으로 관리할수 있도록 제작하였습니다.",
 				link: {
 					gitHref: "github.com/ckru12244/portfolio",
-					webHref: "https://portfolio-wheat-nu-80.vercel.app"
+					webHref: "portfolio-wheat-nu-80.vercel.app"
 				}
 			},
 			{
