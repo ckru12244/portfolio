@@ -118,8 +118,8 @@ const data={
 			{
 				num: "00",
 				title: "Portfolio",
-				skill: "React, Redux, GSAP, SwiperJS",
-				p: "React를 사용하여 제작하였고 반응형 구현한 포트폴리오 사이트 입니다. Redux를 활용하여 상태를 효율적으로 관리할수 있도록 제작하였습니다.",
+				skill: "React, typeit, GSAP, SwiperJS",
+				p: "React를 사용하여 제작하였고 반응형 구현한 포트폴리오 사이트 입니다. typeit 라이브러리를 이용해 동적인 텍스트효과를 구현하였습니다.",
 				link: {
 					gitHref: "github.com/ckru12244/portfolio",
 					webHref: "portfolio-wheat-nu-80.vercel.app"
@@ -129,7 +129,7 @@ const data={
 				num: "01",
 				title: "Wylie",
 				skill: "React, GSAP",
-				p: "React를 활용한 첫 프로젝트입니다. Redux에 대한 학습을 하였으며 state 정보를 활용하여 데이터를 업데이트할 수 있도록 하였습니다. gsap timeline으로 페이지별 컨텐츠에 scrollTrigger를 주어 효과를 적용시켰습니다.",
+				p: "React를 활용한 첫 프로젝트입니다. gsap timeline으로 페이지별 컨텐츠에 scrollTrigger를 주어 효과를 적용시켰습니다.",
 				link: {
 					gitHref: "github.com/ckru12244/project/tree/main/wylie_react",
 					webHref: "wylie.vercel.app"
