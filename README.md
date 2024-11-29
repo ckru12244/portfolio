@@ -39,7 +39,7 @@
   GSAP와 ScrollTrigger로 부드럽고 매끄러운 화면 전환을 구현.  
 
 - **모던 기술 스택:**  
-  Sass, Tailwind CSS 등을 활용해 트렌디한 웹 페이지를 제작.  
+  CSS Animation 등을 활용해 트렌디한 웹 페이지를 제작.  
 
 - **협업 중심:**  
   GitHub로 체계적인 버전 관리를 수행하며 Notion으로 작업 과정을 관리.  

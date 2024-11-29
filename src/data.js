@@ -118,21 +118,21 @@ const data={
 			{
 				num: "00",
 				title: "Portfolio",
-				skill: "React, Redux, GSAP, SwiperJS",
-				p: "React를 사용하여 제작하였고 반응형 구현한 포트폴리오 사이트 입니다. Redux를 활용하여 상태를 효율적으로 관리할수 있도록 제작하였습니다.",
+				skill: "React, typeit, GSAP, SwiperJS",
+				p: "React를 사용하여 제작하였고 반응형 구현한 포트폴리오 사이트 입니다. typeit 라이브러리를 이용해 동적인 텍스트효과를 구현하였습니다.",
 				link: {
 					gitHref: "github.com/ckru12244/portfolio",
-					webHref: "portfolio-2cxgxhnk8-ckru12244s-projects.vercel.app"
+					webHref: "portfolio-wheat-nu-80.vercel.app"
 				}
 			},
 			{
 				num: "01",
 				title: "Wylie",
 				skill: "React, GSAP",
-				p: "React를 활용한 첫 프로젝트입니다. Redux에 대한 학습을 하였으며 state 정보를 활용하여 데이터를 업데이트할 수 있도록 하였습니다. gsap timeline으로 페이지별 컨텐츠에 scrollTrigger를 주어 효과를 적용시켰습니다.",
+				p: "React를 활용한 첫 프로젝트입니다. gsap timeline으로 페이지별 컨텐츠에 scrollTrigger를 주어 효과를 적용시켰습니다.",
 				link: {
 					gitHref: "github.com/ckru12244/project/tree/main/wylie_react",
-					webHref: "wylie-ja2p7tzh9-ckru12244s-projects.vercel.app"
+					webHref: "wylie.vercel.app"
 				}
 			},
 			{
@@ -142,7 +142,7 @@ const data={
 				p: "React를 이용한 프로젝트입니다. 모바일 전용 사이트이며 SwiperJS를 적용하였고, 향후 데이터 베이스를 추가할 것을 대비하여 동적 화면 드로잉에 신경써서 코딩했습니다.",
 				link: {
 					gitHref: "github.com/ckru12244/project/tree/main/o'kitchen_react",
-					webHref: "okitchen-gn00qs9vs-ckru12244s-projects.vercel.app"
+					webHref: "okitchen.vercel.app"
 				}
 			},
 			{
@@ -191,7 +191,7 @@ const data={
 				},
 				link: {
 					git: "github.com/ckru12244/open-source/tree/main/open%20source10",
-					web: "open-source10-b65my9i2w-ckru12244s-projects.vercel.app"
+					web: "open-source10.vercel.app"
 				}
 			},
 			{
@@ -205,7 +205,7 @@ const data={
 				},
 				link: {
 					git: "github.com/ckru12244/open-source/tree/main/open%20source9",
-					web: "open-source9-qa0a8lppw-ckru12244s-projects.vercel.app"
+					web: "open-source9.vercel.app"
 				}
 			},
 			{
@@ -219,7 +219,7 @@ const data={
 				},
 				link: {
 					git: "github.com/ckru12244/open-source/tree/main/open%20source3",
-					web: "open-source3-cgft3awws-ckru12244s-projects.vercel.app"
+					web: "open-source3-taupe.vercel.app"
 				}
 			},
 			{
@@ -233,7 +233,7 @@ const data={
 				},
 				link: {
 					git: "github.com/ckru12244/open-source2/tree/main/open%20source12",
-					web: "open-source12-4m5j7qpi7-ckru12244s-projects.vercel.app"
+					web: "open-source12.vercel.app"
 				}
 			},
 			{
@@ -247,7 +247,7 @@ const data={
 				},
 				link: {
 					git: "github.com/ckru12244/open-source/tree/main/open%20source11",
-					web: "open-source11-npo2rqhxc-ckru12244s-projects.vercel.app"
+					web: "open-source11.vercel.app"
 				}
 			},
 			{
@@ -261,7 +261,7 @@ const data={
 				},
 				link: {
 					git: "github.com/ckru12244/open-source/tree/main/open%20source7",
-					web: "open-source7-b65rbyn7c-ckru12244s-projects.vercel.app"
+					web: "open-source7.vercel.app"
 				}
 			},
 			{
@@ -275,7 +275,7 @@ const data={
 				},
 				link: {
 					git: "github.com/ckru12244/open-source/tree/main/open%20source6",
-					web: "open-source6-cssefabg6-ckru12244s-projects.vercel.app"
+					web: "open-source6.vercel.app"
 				}
 			},
 			{
@@ -289,7 +289,7 @@ const data={
 				},
 				link: {
 					git: "github.com/ckru12244/open-source/tree/main/open%20source1",
-					web: "open-source1-m074k0orq-ckru12244s-projects.vercel.app"
+					web: "open-source1-five.vercel.app"
 				}
 			},
 			{
@@ -303,7 +303,7 @@ const data={
 				},
 				link: {
 					git: "github.com/ckru12244/open-source/tree/main/open%20source4",
-					web: "open-source4-4e2d526y8-ckru12244s-projects.vercel.app"
+					web: "open-source4.vercel.app"
 				}
 			},
 			{
@@ -317,7 +317,7 @@ const data={
 				},
 				link: {
 					git: "github.com/ckru12244/open-source/tree/main/open%20source5",
-					web: "open-source5-rkfmonkm8-ckru12244s-projects.vercel.app"
+					web: "open-source5.vercel.app"
 				}
 			}
 		]
