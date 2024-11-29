@@ -103,4 +103,4 @@
 
 - **GitHub:** [https://github.com/ckru12244](https://github.com/ckru12244)  
 - **Notion:** [https://difficult-notebook-be6.notion.site/Frontend-Portfolio-1194acc700af80e29dd4e381373b8c77?pvs=4](https://difficult-notebook-be6.notion.site/Frontend-Portfolio-1194acc700af80e29dd4e381373b8c77?pvs=4)  
-- **Email:** [ckru1224@naver.com](mailto:ckru1224@naver.com) 
+- **Email:** [ckru1224@naver.com](mailto:ckru1224@naver.com)
