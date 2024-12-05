@@ -122,7 +122,7 @@ const data={
 				p: "React를 사용하여 제작하였고 반응형 구현한 포트폴리오 사이트 입니다. typeit 라이브러리를 이용해 동적인 텍스트효과를 구현하였습니다.",
 				link: {
 					gitHref: "github.com/ckru12244/portfolio",
-					webHref: "portfolio-wheat-nu-80.vercel.app"
+					webHref: "portfolio-ebon-one-77.vercel.app"
 				}
 			},
 			{
